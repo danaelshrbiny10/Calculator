@@ -1,1 +1,2 @@
-# Calculator
+# Calculator:
+   - A Simple calculator Challenge 
